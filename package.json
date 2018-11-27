@@ -12,7 +12,5 @@
   ],
   "author": "Pierre-Gilles Leymarie",
   "license": "MIT",
-  "dependencies": {
-    "blockstack": "^18.1.0"
-  }
+  "dependencies": {}
 }
