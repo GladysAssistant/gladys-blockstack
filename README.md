@@ -22,5 +22,14 @@ Click on `install`, then reboot Gladys!
 ## Usage
 
 - Go to the`Modules` tab in Gladys, then click on the `Configuration` button of the BlockStack module. 
+
+
+![Configuration Step 1 Blockstack Gladys](screenshots/step-1.jpg)
+
 - You can now login with your BlockStack account
+
+![Configuration Step 2 Blockstack Gladys](screenshots/step-2.jpg)
+
 - You should be able to login, save your home preferences in Blockstack and re-import it back when needed.
+
+![Configuration Step 3 Blockstack Gladys](screenshots/step-3.jpg)
