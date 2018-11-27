@@ -1,0 +1,47 @@
+<script src="/hooks/blockstack/js/bundle.js"></script>
+<script src="/hooks/blockstack/js/app.js"></script>
+
+<div class="login-box" id="section-1">
+  <form>
+      <div class="login-box-body">          
+          <div class="form-group">
+            <p>Sign In with BlockStack to sync your home preferences on BlockStack network.</p>
+          </div>
+          
+          <div class="footer">   
+            <a href="#" class="btn btn-primary btn-block" id="signin-button">
+              Sign In with Blockstack
+            </a>
+          </div>
+      </div>
+  </form>
+</div>
+
+<div class="site-wrapper">
+  <div class="site-wrapper-inner">
+    <div class="panel-welcome" id="section-2" style="display: none">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Information</th>
+              <th>Action</th>
+            </tr>
+          </thead>   
+          <tbody>
+              <tr>
+                <td id="gladys-param-count"></td>
+                <td><button class="btn btn-primary" id="save-to-blockstack-button">Save</button></td>
+              </tr>
+              <tr>
+                  <td id="blockstack-param-count"></td>
+                  <td><button class="btn btn-primary" id="import-from-blockstack-button">Import</button></td>
+              </tr>
+              <tr>
+                  <td>Logout from your Blockstack account</td>
+                  <td><button class="btn btn-danger" id="signout-button">Logout</button></td>
+                </tr>
+            </tbody>   
+        </table>          
+    </div>
+  </div>
+</div>
