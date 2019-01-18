@@ -4,7 +4,8 @@
   "description": "Gladys BlockStack Integration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-blockstack": "browserify assets/js/blockstack.js -o assets/js/bundle.js"
   },
   "keywords": [
     "gladys",
@@ -12,5 +13,8 @@
   ],
   "author": "Pierre-Gilles Leymarie",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "blockstack": "^18.2.1"
+  }
 }
