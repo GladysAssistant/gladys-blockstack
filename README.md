@@ -10,12 +10,7 @@ Read more about their technology on their website => [https://blockstack.org/](h
 
 ## Installation
 
-To install this module, go to your Gladys, go to the module tabs, click on `Advanced`, then enter the following informations:
-
-- Name: `BlockStack`
-- Version: `1.0.0`
-- Git URL: `https://github.com/GladysProject/gladys-blockstack`
-- Slug: `blockstack`
+To install this module, go to your Gladys, go to the `module` tabs, search for the Blockstack module.
 
 Click on `install`, then reboot Gladys!
 
