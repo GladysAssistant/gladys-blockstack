@@ -28,3 +28,12 @@ Click on `install`, then reboot Gladys!
 - You should be able to login, save your home preferences in Blockstack and re-import it back when needed.
 
 ![Configuration Step 3 Blockstack Gladys](screenshots/step-3.jpg)
+
+
+## Development
+
+Sometimes to build Blockstack with browserify I have to install the following dependencies: 
+
+```
+npm i @babel/core babelify
+```
