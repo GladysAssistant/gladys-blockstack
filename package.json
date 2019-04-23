@@ -1,6 +1,6 @@
 {
   "name": "gladys-blockstack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gladys BlockStack Integration",
   "main": "index.js",
   "scripts": {
