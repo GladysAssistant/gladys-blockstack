@@ -13,8 +13,9 @@
   ],
   "author": "Pierre-Gilles Leymarie",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
-    "blockstack": "^19.0.0"
+    "blockstack": "^19.0.1",
+    "@babel/core": "^7.4.3",
+    "babelify": "^10.0.0"
   }
 }
